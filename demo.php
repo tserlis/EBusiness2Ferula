@@ -1,4 +1,6 @@
 <?php
+/*I ran this using xampp, along with the xampp control panel to run a local apache server and mySQL database
+I named the database ferulatest, and the table that I was inserting data into is named demo*/
 
 define('DB_NAME', 'ferulatest');
 define('DB_USER', 'root');
